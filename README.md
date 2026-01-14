@@ -58,20 +58,32 @@ I enjoy creating games where **systems interact**, mechanics evolve, and the pro
 
 | Project | Description | Link |
 |-------|------------|------|
-| 🏰 **Prototype** | Tower Defense game built with **Entitas ECS** | [GitHub](https://github.com/your-link) |
-| ⚔ **Prototype** | Survivors-like action game built with **OOP** | [GitHub](https://github.com/your-link) |
-| 🧪 **Test** | Playtest-ready Unity project with loot, healing, inventory, UI polish | [GitHub](https://github.com/your-link) |
-| 🧊 **Prototype** | Physics-based prototype built in 2 days. Zenject, state machine, merge logic | [GitHub](https://github.com/your-link) |
+| 🧪 **Figure Triplets Demo (Match-3)** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Test_Figure_Triplets)) |
+| ⚔ **Drone Resource Collection System** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Test_Drone_Assemblers)) |
+| 🏰 **Grid Building Demo** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Grid_Building_Test)) |
+| 🧊 **Prototype Arkanoid** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Arkanoid)) |
 
 ---
 
-## 📈 GitHub Stats
+## 🎮 GameDev Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Necollaz&show_icons=true&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Necollaz&theme=dark&hide_border=true" />
-</p>
+- 🧩 Designed and implemented **gameplay systems**: inventory, resources, progression, meta-systems
+- ⚔ Built **combat mechanics** with state machines and animation-driven logic
+- 🧠 Worked with **ECS (Entitas)** and classic **OOP architectures**
+- 🏗 Created **modular, scalable systems** suitable for long-term development
+- ⚡ Optimized projects for **Mobile & WebGL** (memory, GC allocations, performance)
+- 🧪 Delivered **playtest-ready prototypes** and test tasks under tight deadlines
+
+---
+
+## 🧠 Tech Philosophy
+
+- Prefer **clear architecture** over quick hacks
+- Build systems that are **easy to extend, not hard to understand**
+- Avoid tight coupling, magic values and hidden dependencies
+- Think about **performance and scalability from day one**
+- Treat prototypes as a foundation, not disposable code
+- Value readable code and predictable behavior over overengineering
 
 ---
 
@@ -81,6 +93,7 @@ I enjoy creating games where **systems interact**, mechanics evolve, and the pro
 - Projects where **code quality matters**
 - Teams that value **architecture & scalability**
 - Mid-level Game Developer roles
+- Long-term projects and product teams
 
 ---
 
