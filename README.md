@@ -68,9 +68,9 @@ I enjoy creating games where **systems interact**, mechanics evolve, and the pro
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Necollaz&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Necollaz&show_icons=true&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Necollaz&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=Necollaz&theme=dark&hide_border=true" />
 </p>
 
 ---
