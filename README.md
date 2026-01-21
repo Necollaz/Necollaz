@@ -54,17 +54,6 @@ I enjoy creating games where **systems interact**, mechanics evolve, and the pro
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Link |
-|-------|------------|------|
-| 🧪 **Figure Triplets Demo (Match-3)** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Test_Figure_Triplets)) |
-| ⚔ **Drone Resource Collection System** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Test_Drone_Assemblers)) |
-| 🏰 **Grid Building Demo** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Grid_Building_Test)) |
-| 🧊 **Prototype Arkanoid** | [GitHub]([https://github.com/your-link](https://github.com/Necollaz/Arkanoid)) |
-
----
-
 ## 🎮 GameDev Highlights
 
 - 🧩 Designed and implemented **gameplay systems**: inventory, resources, progression, meta-systems
